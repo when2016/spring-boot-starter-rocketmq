@@ -1,6 +1,8 @@
 
+#生产者与消息者例子
+https://github.com/aqlu/rocketmq-demo
 
-#参考
+#参考spring2.0启动异常
 https://www.jianshu.com/p/c6fd4ab90006
 
 查了许多资料，最后同样是在github的Issue中找到了答案，参考Issue #77
